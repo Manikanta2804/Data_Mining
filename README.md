@@ -1,1 +1,3 @@
-# Data_Mining
+# Data_Mining/Data_Analyst
+
+"This Colab notebook is dedicated to exploring and practicing data mining techniques. It serves as a hands-on environment where I apply various algorithms and methods to analyze and extract meaningful patterns from datasets. From data preprocessing to clustering, classification, and regression tasks, this notebook covers a wide range of data mining topics. Google Colab provides an interactive platform to experiment with Python libraries like Pandas, NumPy, and Scikit-learn. This setup helps in efficiently managing computational resources and running complex analyses. The aim is to enhance my understanding of data mining processes and develop practical skills."
